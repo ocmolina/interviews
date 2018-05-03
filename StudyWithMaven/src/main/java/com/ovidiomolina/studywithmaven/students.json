@@ -1,0 +1,30 @@
+[
+    {
+        "name": "student 1",
+        "id": "S-0001",
+        "courses": [
+            {
+                "name": "Math",
+                "id": "MA-01"
+            },
+            {
+                "name": "Java",
+                "id": "CS-01"
+            }
+        ]
+    },
+    {
+        "name": "student 2",
+        "id": "S-0002",
+        "courses": [
+            {
+                "name": "Math",
+                "id": "MA-01"
+            },
+            {
+                "name": "Java",
+                "id": "CS-01"
+            }
+        ]
+    }
+]
