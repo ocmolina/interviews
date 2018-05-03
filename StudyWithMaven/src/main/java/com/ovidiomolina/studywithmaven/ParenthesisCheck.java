@@ -1,3 +1,5 @@
+package com.ovidiomolina.studywithmaven;
+
 import java.util.Stack;
 
 /**
